@@ -1,7 +1,7 @@
 # Refactor Horiseon social solution services Code
 
 ## Link to Application
-[Click to see the deployed website](https://sehaj97.github.io/Horiseon-Social-Solution-Services/)
+Click on link to see the deployed website [https://sehaj97.github.io/Horiseon-Social-Solution-Services/](https://sehaj97.github.io/Horiseon-Social-Solution-Services/)
 
 ## Description
 The page have code for Horiseon Social Solution Services which provide degital marketing services.
