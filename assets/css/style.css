@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* styles for header section*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/*styles for jumbotron/hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +60,7 @@ p {
     background-position: center;
 }
 
+/*styles for content section*/
 .content {
     width: 75%;
     display: inline-block;
@@ -91,6 +93,7 @@ p {
     font-size: 36px;
 }
 
+/*style to handle spacing between image and details inside content section*/
 .left-padding {
     padding-left: 25px;
 }
@@ -99,6 +102,7 @@ p {
     padding-right: 25px;
 }
 
+/*styles for benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -126,6 +130,7 @@ p {
     max-width: 150px;
 }
 
+/*styles for footer section*/
 footer {
     padding: 30px;
     clear: both;
