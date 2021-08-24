@@ -18,6 +18,6 @@ _or_
 git clone https://github.com/sehaj97/Horiseon-Social-Solution-Services.git
 
 ## Screenshot
-![screenshot of the website](./asset/images/deployedsite.jpg)
-![screenshot 2 of the website](./asset/images/deployedsite2.jpg)
+![screenshot of the website](assets/images/deployedsite.JPG)
+![screenshot 2 of the website](assets/images/deployedsite2.jpg)
 
