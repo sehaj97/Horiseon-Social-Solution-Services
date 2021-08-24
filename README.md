@@ -6,7 +6,7 @@ Click on link to see the deployed website [https://sehaj97.github.io/Horiseon-So
 ## Description
 The page have code for Horiseon Social Solution Services which provide degital marketing services.
 
-The project waas clean coded to contain semantic html tags, accessibility for the page and styles to keep it consistent.
+The project was clean coded to contain semantic html tags, accessibility for the page and styles to keep it consistent.
 
 Assests folder contain images and css folder.
 
